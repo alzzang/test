@@ -29,3 +29,5 @@ tttt
 ddd
 >>>>>>> origin/master
 }
+
+바보바보바보바보바ㅂㅎ
