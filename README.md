@@ -28,13 +28,26 @@ tttt
 다시시작해보자
 ddd
 >>>>>>> origin/master
+<<<<<<< HEAD
 
 <<<<<<< HEAD
-static void aaa(){
-}
-}
+<<<<<<< HEAD
 =======
 void login(){
 	}
 }
+=======
+>>>>>>> 199d52ef1e50e834ea4eccaa926120f964ef0427
+static void aaa(){
+}
+}
+>>>>>>> origin/develop
+=======
+}
+<<<<<<< HEAD
 >>>>>>> ac102dc004e38dff5cca92cd65d2be83027eb60f
+=======
+
+바보바보바보바보바ㅂㅎ
+>>>>>>> origin/jybobo
+>>>>>>> 199d52ef1e50e834ea4eccaa926120f964ef0427
