@@ -28,4 +28,7 @@ tttt
 다시시작해보자
 ddd
 >>>>>>> origin/master
+
+void login(){
+	}
 }
