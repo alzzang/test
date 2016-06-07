@@ -29,6 +29,12 @@ tttt
 ddd
 >>>>>>> origin/master
 
+<<<<<<< HEAD
 void login(){
 	}
 }
+=======
+static void aaa(){
+}
+}
+>>>>>>> origin/develop
