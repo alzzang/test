@@ -29,6 +29,12 @@ tttt
 ddd
 >>>>>>> origin/master
 
+<<<<<<< HEAD
 static void aaa(){
 }
 }
+=======
+void login(){
+	}
+}
+>>>>>>> ac102dc004e38dff5cca92cd65d2be83027eb60f
