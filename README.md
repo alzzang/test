@@ -28,6 +28,7 @@ tttt
 다시시작해보자
 ddd
 >>>>>>> origin/master
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 void login(){
@@ -38,3 +39,8 @@ static void aaa(){
 }
 }
 >>>>>>> origin/develop
+=======
+}
+
+바보바보바보바보바ㅂㅎ
+>>>>>>> origin/jybobo
